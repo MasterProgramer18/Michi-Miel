@@ -303,7 +303,6 @@ p{
     }
 
     .menu .navbar{
-        position: absolute;
         top: 50;
         left: 40%;
         right: 0;
@@ -312,7 +311,7 @@ p{
     }
 
     .menu .navbar ul li{
-        width: 35%;
+        width: 51%;
     }
 
     #menu:checked ~ .navbar{
